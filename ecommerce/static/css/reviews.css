@@ -1,0 +1,12 @@
+.star {
+    font-size: 24px;  /* Adjust size as needed */
+    color: lightgray; /* Default color for empty stars */
+}
+
+.star.filled {
+    color: gold;  /* Gold color for filled stars */
+}
+
+.star.empty {
+    color: lightgray;  /* Light gray color for empty stars */
+}
